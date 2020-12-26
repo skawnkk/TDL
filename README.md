@@ -7,3 +7,12 @@ To Do List
 <br>
 
 ![init](https://i.imgur.com/XqGJgJ9.png)
+
+- 터미널 실행 bash로 맞추기<br>
+  ctrl + shift + P => Terminal : Select Default Shell -> Git Bash<br>
+  
+- 모듈 사용하기 __ export, require<br>
+
+- node js 디버깅 익히기
+
+  

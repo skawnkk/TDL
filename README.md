@@ -1,18 +1,16 @@
 # TDL
-To Do List
+To Do List: 배우고 익히기(정리)까지가 마무리입니다 'ㅈ' 
 
-- [ ] node.js 사용법 익히기 <br>
-[영상](https://youtube.com/playlist?list=PLHGvDasahwZMko2OayS24NEzWYf3sMq2w)<br>
-- vs_code terminal(bash)에서 nodejs실행, npm명령어 -> package.json 파일 만들기<br>
-<br>
+- [x] node.js 기초 사용법  
+- [ ] require & exports example
+- [ ] expression & statements
+  [참고](https://gusdnd852.tistory.com/68)
+- [ ] arguments
+  [참고](https://boycoding.tistory.com/21)
+- [ ] default parameter, rest parameter
+- [ ] call by value, call by reference in JS
+  [참고](https://code-masterjung.tistory.com/32)
+- [ ] 201226파일 정리.
 
-![init](https://i.imgur.com/XqGJgJ9.png)
-
-- 터미널 실행 bash로 맞추기<br>
-  ctrl + shift + P => Terminal : Select Default Shell -> Git Bash<br>
-  
-- 모듈 사용하기 __ export, require<br>
-
-- node js 디버깅 익히기
 
   

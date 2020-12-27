@@ -1,5 +1,5 @@
 # TDL
-To Do List: 배우고 익히기(정리)까지가 마무리입니다 'ㅈ' 
+To Do List: 배우고 익히기(TIL정리)까지가 마무리입니다 'ㅈ' 
 
 - [x] node.js 기초 사용법  
 - [ ] require & exports example

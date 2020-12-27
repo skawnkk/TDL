@@ -11,6 +11,5 @@ To Do List: 배우고 익히기(TIL정리)까지가 마무리입니다 'ㅈ'
 - [ ] call by value, call by reference in JS
   [참고](https://code-masterjung.tistory.com/32)
 - [ ] 201226파일 정리.
-
-
+- [ ] var, const,let 의 hoisting ★(중요)
   

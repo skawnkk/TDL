@@ -2,7 +2,7 @@
 To Do List: 배우고 익히기(TIL정리)까지가 마무리입니다 'ㅈ' 
 
 - [x] node.js 기초 사용법  
-- [ ] require & exports example
+- [x] require & exports example
 - [ ] expression & statements
   [참고](https://gusdnd852.tistory.com/68)
 - [ ] arguments

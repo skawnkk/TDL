@@ -18,3 +18,5 @@ To Do List: 배우고 익히기(TIL정리)까지가 마무리입니다 'ㅈ'
 - [x] 정규표현식 기초 정리(생활코딩)
 - [ ] 정규표현식 구현 정리(생활코딩)
 - [ ] 링크드리스트 정리
+- [ ] arrowfunction (this, self 정리) 
+      (https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/%EC%95%A0%EB%A1%9C%EC%9A%B0_%ED%8E%91%EC%85%98)
